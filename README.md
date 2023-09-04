@@ -1,2 +1,2 @@
 # dotfiles
-it is a minimum vimrc file with audo indentation and no external packages installed.
+<h4>minimalistic vimrc configuartion file with no external packages installed.</h4>
